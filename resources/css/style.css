@@ -88,6 +88,16 @@ span em2{
   padding-left:24px;
   padding-bottom:32px;
 }
+.left h3{
+  padding-left:24px;
+  
+}
+.left h4{
+  padding-left:24px;
+  font-weight:200;
+  font-size:18px;
+  padding-top:24px;
+}
 .right{
   width:50%;
   padding-left:24px;
