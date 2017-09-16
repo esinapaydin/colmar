@@ -151,3 +151,8 @@ span em2{
   background-color:rgb(200,200,200);
   padding-bottom:32px;
 }
+
+.video video{
+  width:100%;
+}
+
