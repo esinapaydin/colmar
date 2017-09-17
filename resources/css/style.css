@@ -177,3 +177,62 @@ footer{
   padding-bottom:16px;
   flex-grow:1;
 }
+@media only screen and (min-width:540px){
+  .picturessmall{
+     display:none;
+}
+  
+}
+
+
+  .picturessmall h1{
+    text-align:center;
+    padding:16px;
+    background-color:rgb(210,210,210);
+    margin:10px;
+    
+  }
+.picturessmall{
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+}
+
+
+
+@media only screen and (max-width:540px){
+  span em{
+    display:none;
+  }
+  span em2{
+    display:none;
+  }
+  nav{
+    display:none;
+  }
+  .learn{
+    display:block;
+  }
+  .left{
+    display:none;
+  }
+  .right{
+    display:block;
+  }
+  .textbox{
+    width:150px;
+  }
+  .picturestotal{
+    display:none;
+  }
+  .left2{
+    display:block;
+  }
+  .right2{
+    display:none;
+  }
+  
+  
+}
+
+
+
