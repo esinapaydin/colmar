@@ -160,3 +160,20 @@ span em2{
   padding-top:32px;
   padding-left:24px;
 }
+footer h3{
+  font-size:16px;
+  flex-grow:1;
+}
+
+footer h4{
+  font-size:16px;
+}
+
+footer{
+  border-top:1px solid black;
+  display:flex;
+  padding-top:16px;
+  padding-left:24px;
+  padding-bottom:16px;
+  flex-grow:1;
+}
