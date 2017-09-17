@@ -155,4 +155,6 @@ span em2{
 .video video{
   width:100%;
 }
-
+.video{
+  width:60%;
+}
